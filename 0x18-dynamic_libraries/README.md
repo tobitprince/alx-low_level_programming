@@ -1,1 +1,1 @@
-0x018 Dynamic libraries
+Static and dynamic libraries
